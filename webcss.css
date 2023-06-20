@@ -370,7 +370,17 @@ h3
      transform: scale(0,5);
   }
   
-img
+#img1, 
+#img2, 
+#img3, 
+#img4, 
+#img5, 
+#img6, 
+#img7, 
+#img8,
+#img9, 
+#img10, 
+#img11, 
 {
   transform: scale(3);
   padding-top: 15%;
