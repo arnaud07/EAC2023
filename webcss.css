@@ -365,6 +365,11 @@ h3
   font-size: medium;
 }
 
+#vld
+  {
+     transform: scale(0,5);
+  }
+  
 img
 {
   transform: scale(3);
@@ -405,11 +410,6 @@ body
   font-size: small;
   line-height: 102%;
 }
-
-#vld
-  {
-     transform: scale(0,5);
-  }
   
 }
 
