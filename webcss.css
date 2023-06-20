@@ -412,3 +412,9 @@ body
   font-size: xx-small;
   color: transparent;
 }
+
+.vld
+{
+    max-width: 3%;
+  max-height: 3%;
+}
