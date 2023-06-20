@@ -369,18 +369,14 @@ h3
   {
      transform: scale(0,5);
   }
+
+#vld
+{
+    max-width: 3%;
+  max-height: 3%;
+}
   
-#img1, 
-#img2, 
-#img3, 
-#img4, 
-#img5, 
-#img6, 
-#img7, 
-#img8,
-#img9, 
-#img10, 
-#img11, 
+img
 {
   transform: scale(3);
   padding-top: 15%;
@@ -420,7 +416,7 @@ body
   font-size: small;
   line-height: 102%;
 }
-  
+
 }
 
 .espc
