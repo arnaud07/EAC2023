@@ -30,6 +30,7 @@ header {
 footer
 {
   color: black;
+  display: flex;
 }
 
 .tab {
