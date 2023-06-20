@@ -406,16 +406,15 @@ body
   line-height: 102%;
 }
 
+#vld
+  {
+     transform: scale(0,5);
+  }
+  
 }
 
 .espc
 {
   font-size: xx-small;
   color: transparent;
-}
-
-.vld
-{
-    max-width: 3%;
-  max-height: 3%;
 }
