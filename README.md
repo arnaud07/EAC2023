@@ -1,14 +1,3 @@
-<style>
-h3
-  {
-  font-size: medium;
-  }
-
-p
-  {
-  font-size: small;
-  }
-  </style>
 <h3>EAC2023</h3>
 <p> Mon projet de fin d'année <br>
 Je suis heureux de savoir que vous lisez ceci, ce projet m'a prit plus ou moin entre 15 et 20h. <br>
